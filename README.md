@@ -46,14 +46,14 @@ Tenho também conhecimentos em infraestrutura e redes, o que me proporciona uma 
 ---
 
 ## 📚 Formação
-🎓 Engenharia da Computação – Cursando  
+🎓 Engenharia da Computação – Cursando
 
 ---
-  ## Projetos:  
-    - **GestMarinha** – Gestão para ONGs marinhas  
-    - **Soft.IMOB** – Gestão de imobiliárias  
-    - **Stock** – Controle de produtos e estoque  
-    - **Websites institucionais** – Academias, empresas de segurança e outros segmentos  
+  ## Projetos: 
+  . **GestMarinha** – Gestão para ONGs marinhas  
+  . **Soft.IMOB** – Gestão de imobiliárias  
+  . **Stock** – Controle de produtos e estoque  
+  . **Websites institucionais** – Academias, empresas de segurança e outros segmentos  
 ---
 
 ## 📊 GitHub Stats

@@ -42,17 +42,18 @@ Tenho também conhecimentos em infraestrutura e redes, o que me proporciona uma 
 ## 🚀 Experiência
 - **Gateway** → Suporte técnico e manutenção de sistemas corporativos, análise de problemas e estabilidade de aplicações.  
 - **Legal Control** → Desenvolvimento e manutenção de sistemas corporativos em **.NET e SQL Server**, além de suporte em produção.  
-  - Projetos:  
-    - **GestMarinha** – Gestão para ONGs marinhas  
-    - **Soft.IMOB** – Gestão de imobiliárias  
-    - **Stock** – Controle de produtos e estoque  
-    - **Websites institucionais** – Academias, empresas de segurança e outros segmentos  
 
 ---
 
 ## 📚 Formação
 🎓 Engenharia da Computação – Cursando  
 
+---
+  ## Projetos:  
+    - **GestMarinha** – Gestão para ONGs marinhas  
+    - **Soft.IMOB** – Gestão de imobiliárias  
+    - **Stock** – Controle de produtos e estoque  
+    - **Websites institucionais** – Academias, empresas de segurança e outros segmentos  
 ---
 
 ## 📊 GitHub Stats

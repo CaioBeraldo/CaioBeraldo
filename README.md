@@ -185,23 +185,34 @@ Centro Universitário UNA
 
 ---
 
+
+---
 # 📊 GitHub Analytics
 
 <div align="center">
 
-### Contribution Activity
+### Contribution Streak
 
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=CaioBeraldo&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=00D9FF&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
+<img width="95%" src="https://streak-stats.demolab.com/?user=CaioBeraldo&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=00D9FF&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
 
 <br/>
 
 ### GitHub Statistics
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=CaioBeraldo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=00D9FF&text_color=C9D1D9&include_all_commits=true&count_private=false&show=reviews,prs_merged,prs_merged_percentage" />
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=CaioBeraldo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioBeraldo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=10" />
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=CaioBeraldo&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 
 <br/>
+
+### Activity Graph
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=CaioBeraldo&bg_color=0D1117&color=58A6FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" />
+
+</div>
+
+---
+
 
 ### GitHub Activity Graph
 

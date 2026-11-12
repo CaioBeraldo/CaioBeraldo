@@ -1,65 +1,170 @@
-# 👋 Olá, eu sou o Caio Beraldo  
 
-## 💫 Sobre mim
-Sou Desenvolvedor Full Stack com experiência no desenvolvimento e manutenção de aplicações web, integração com banco de dados e análise de problemas em ambientes de produção.  
-Atuo principalmente com **C#, .NET, SQL Server e Golang**, criando soluções e evoluindo sistemas corporativos.  
-Tenho também conhecimentos em infraestrutura e redes, o que me proporciona uma visão ampla do funcionamento das aplicações e ambientes.  
+# 👨‍💻 Caio Beraldo
 
-🎯 Objetivo: Continuar crescendo como desenvolvedor Full Stack, contribuindo para projetos desafiadores e inovadores.  
+### IT Infrastructure | Network Security | Software Development
 
----
+Profissional de TI com experiência em infraestrutura, administração de ambientes corporativos, suporte técnico e desenvolvimento de software.
 
-## 🌐 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/caio-beraldo)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/caioo.beraldo)  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/caioeduardo.ribeiroberaldo)  
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/CaioBeraldo)  
+Atualmente atuo com administração de **Active Directory, GPO, redes corporativas, VPNs e firewalls FortiGate**, além de monitoramento e diagnóstico de ambientes de TI.
+
+Também possuo experiência com desenvolvimento de aplicações utilizando **C#, .NET, SQL Server e JavaScript**, trabalhando com manutenção de sistemas corporativos, APIs e bancos de dados.
+
+🎯 **Foco profissional:** Network Security, Cybersecurity, Cloud Security e infraestrutura de redes.
 
 ---
 
-## 💻 Tech Stack
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)  
-![Golang](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)  
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white)  
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)  
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)  
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)  
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)  
-![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=flat&logo=.net&logoColor=white)  
-![REST API](https://img.shields.io/badge/REST-02569B?style=flat&logo=rest&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)  
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)  
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)  
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)  
+## 🌐 Connect with me
+
+<p align="left">
+  <a href="https://linkedin.com/in/caio-beraldo" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:caioeduber@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/caioo.beraldo" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🚀 Experiência
-- **Gateway** → Suporte técnico e manutenção de sistemas corporativos, análise de problemas e estabilidade de aplicações.  
-- **Legal Control** → Desenvolvimento e manutenção de sistemas corporativos em **.NET e SQL Server**, além de suporte em produção.  
+## 🛡️ Infrastructure & Cybersecurity
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Zabbix-DC382D?style=for-the-badge&logo=zabbix&logoColor=white" />
+</p>
+
+- Network Administration: TCP/IP, IPv4, IPv6, DNS, DHCP.
+- Network Security: Firewalls, VPN, IPS, SSL Inspection e Web Filtering.
+- FortiGate: políticas de segurança, controle de aplicações e gerenciamento de tráfego.
+- Active Directory: usuários, permissões e Group Policy (GPO).
+- Network Monitoring: Zabbix e Grafana.
+- Infrastructure: Ethernet, Wireless, troubleshooting e suporte N2.
+- Security Concepts: Network Security, Cloud Security, Zero Trust e Vulnerability Analysis.
 
 ---
 
-## 📚 Formação
-🎓 Engenharia da Computação – Cursando
+## 💻 Development & Technologies
+
+**Languages**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,python,js,php,go" />
+</p>
+
+**Frameworks & Development**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet,react,nodejs" />
+</p>
+
+**Databases**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+**Cloud, DevOps & Tools**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,azure,git,github,gitlab,docker,figma,vscode" />
+</p>
+
+- Development: C#, .NET, ASP.NET, REST APIs e JavaScript.
+- Database: SQL Server, PostgreSQL, MySQL e SQLite.
+- Cloud: AWS e conceitos de Cloud Security.
+- Version Control: Git, GitHub e GitLab.
+- DevOps: Azure DevOps.
 
 ---
-  ## Projetos: 
-  . **GestMarinha** – Gestão para ONGs marinhas  
-  . **Soft.IMOB** – Gestão de imobiliárias  
-  . **Stock** – Controle de produtos e estoque  
-  . **Websites institucionais** – Academias, empresas de segurança e outros segmentos  
+
+## 🏅 Certifications & Training
+
+| Certification | Institution |
+|---|---|
+| Fortinet Certified Associate in Cybersecurity | Fortinet |
+| NSE 3 – FortiGate Operator | Fortinet |
+| NSE 2 – Technical Introduction to Cybersecurity 3.0 | Fortinet |
+| Networking Basics | Cisco Networking Academy |
+| Introduction to Cybersecurity | Cisco Networking Academy |
+| CompTIA Network+ / CCNA – Training | Udemy |
+| Practical Computer Networks and Internet | Training |
+| IPv4 Addressing | Training |
+| Git and GitHub | Curso em Vídeo |
+
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=CaioBeraldo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioBeraldo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 💼 Professional Experience
+
+**Gateway Telecomunicações e Informática**  
+`IT Support Analyst | Sep 2025 – Present`
+
+- Active Directory administration and GPO management.
+- Administration of users, permissions and corporate workstations.
+- Network infrastructure, VPN and firewall configuration.
+- Technical support and troubleshooting in corporate environments.
+
+**Dubaa Tecnologia**  
+`IT Analyst | May 2019 – Jan 2023`
+
+- IT infrastructure and corporate technical support.
+- Active Directory, VPN and firewall administration.
+- Network and equipment monitoring using Zabbix.
+- Infrastructure maintenance and troubleshooting.
+
+**Legal Control**  
+`Software Developer Intern | Apr 2024 – Apr 2025`
+
+- Maintenance and evolution of legacy corporate systems.
+- Development using C# and .NET.
+- SQL Server queries, scripts and database maintenance.
+- Production support and incident analysis.
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=CaioBeraldo&icon=2&color=1)](https://visitcount.itsvg.in)
+## 🚀 Projects
+
+| Project | Description |
+|---|---|
+| **GestMarinha** | Management platform for marine NGOs. |
+| **Soft.IMOB** | Real estate management system. |
+| **Stock** | Product and inventory management system. |
+| **Institutional Websites** | Websites for companies, gyms and security businesses. |
+
+---
+
+## 🎓 Education
+
+**Computer Engineering**  
+Centro Universitário UNA  
+`In Progress`
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CaioBeraldo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioBeraldo&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=CaioBeraldo&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Always learning, building and securing technology."</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CaioBeraldo&label=Profile%20Views&color=0078D4&style=flat" />
+</p>
